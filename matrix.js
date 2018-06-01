@@ -7,7 +7,7 @@
 function genMatrix(inp) {
     const n = parseInt(inp, 10);
     if (!Number.isNaN(n) && n > 1) {
-        let arr = [];
+        const arr = [];
         for (let y = 0; y<2*n-1; y++){
             arr[y] = [];
             for (let x = 0; x<2*n-1; x++){
