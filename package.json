@@ -1,0 +1,31 @@
+{
+  "name": "matrix_task",
+  "version": "1.0.0",
+  "description": "test task to process matrix",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toggor/matrix_task.git"
+  },
+  "keywords": [
+    "test_task"
+  ],
+  "author": "toggor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toggor/matrix_task/issues"
+  },
+  "homepage": "https://github.com/toggor/matrix_task#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "mocha": "^5.2.0"
+  }
+}
