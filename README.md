@@ -8,3 +8,17 @@ Solution should work for any n.
 
 ### Example:
 
+For the matrix:
+
+| 1 | 2 | 3 |
+|---|---|---|
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
+
+Result should be: `5 4 7 8 9 6 3 2 1`
+
+### Usage:
+
+npm start [`n`]
+
+![Example](example.png)
