@@ -1,4 +1,5 @@
 ## Matrix snail runner
+[![Build Status](https://travis-ci.org/toggor/matrix_task.svg?branch=master)](https://travis-ci.org/toggor/matrix_task)
 
 ### The task
 
